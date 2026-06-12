@@ -163,6 +163,7 @@ Vrinda_Store_Sales_Analysis.xlsx
 ---
 
 ## 📷 Dashboard Preview
+<img width="1862" height="882" alt="image" src="https://github.com/user-attachments/assets/5064ec02-2947-4095-b741-45627fbe7f90" />
 
 
 ---
